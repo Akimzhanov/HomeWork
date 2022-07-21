@@ -68,9 +68,9 @@ from math import pi
 
 #11
 
-mony = 2400
-x = 2400 * 84
-print (x, 'сомов')
+# mony = 2400
+# x = 2400 * 84
+# print (x, 'сомов')
 
 
 
